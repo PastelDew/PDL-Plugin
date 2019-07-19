@@ -1,0 +1,5 @@
+name: UserService
+main: pdlab.minecraft.userservice.main.UserService
+version: 0.1.0
+requiredCoreVersion: 0.1.0
+dependencies:

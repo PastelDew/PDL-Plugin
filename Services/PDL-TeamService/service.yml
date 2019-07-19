@@ -1,0 +1,6 @@
+label: team
+name: TeamService
+main: pdlab.minecraft.teamservice.main.TeamService
+version: 0.1.0
+requiredCoreVersion: 0.1.0
+dependencies: {}

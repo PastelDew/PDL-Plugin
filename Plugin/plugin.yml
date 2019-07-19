@@ -1,0 +1,8 @@
+label: pdl
+name: PDL-Plugin
+main: pdlab.minecraft.main.Main
+version: 0.1.0
+
+commands:
+   pdl:
+      description: The command prefix e.g.) /pdl help
