@@ -1,4 +1,4 @@
-ProjectName=PDL-plugin
+ProjectName=TeamService
 BFL=build_file_list.txt
 
 find ./ -name *.java -print > $BFL

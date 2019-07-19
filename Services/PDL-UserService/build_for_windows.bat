@@ -1,4 +1,4 @@
-SET ProjectName=PDL-plugin
+SET ProjectName=UserService
 SET BFL=build_file_list.txt
 
 dir /s /b *.java > %BFL%
