@@ -1,1 +1,5 @@
 Plugin/lib/BungeeCord.jar
+Services/PDL-UserService/lib/BungeeCord.jar
+Services/PDL-TeamService/lib/BungeeCord.jar
+*.project
+*.classpath
