@@ -5,8 +5,8 @@ import java.util.HashMap;
 import java.util.UUID;
 
 public class Team {
-	private static final String RANK_LEADER = "ÆÀÀå";
-	private static final String RANK_NEWBIE = "ÆÀ¿ø";
+	private static final String RANK_LEADER = "íŒ€ì¥";
+	private static final String RANK_NEWBIE = "íŒ€ì›";
 	private UUID playerLeader = null;
 	private HashMap<UUID, String> players;
 	private ArrayList<String> rank;

@@ -7,7 +7,7 @@ import pdlab.minecraft.services.ServiceBase;
 import pdlab.minecraft.services.ServiceInfo;
 
 public class TeamService extends ServiceBase {
-	private static final String COMMAND_LABEL = "ÆÀ";
+	private static final String COMMAND_LABEL = "íŒ€";
 	private CommandExecutor cmd;
 	
 	@Override
