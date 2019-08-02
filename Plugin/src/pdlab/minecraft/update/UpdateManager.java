@@ -199,7 +199,7 @@ public class UpdateManager {
 		}
 		
 		JSONObject result = (JSONObject)JsonReader.readJsonFromUrl(resolveURL("plugin_info", label, version)).get("response");
-		if(result.isEmpty()) {
+		if(result == null || result.isEmpty()) {
 			pdio.error("The given service info is incorrect!");
 			return false;
 		}
